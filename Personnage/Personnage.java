@@ -18,7 +18,7 @@ public class Personnage {
     }
 
     public void messageDeMort() {
-        System.out.println("le personage " + this.nom + "est mort");
+        System.out.println("le personage " + this.nom + " est mort");
     }
 
     public String LeNom() {
